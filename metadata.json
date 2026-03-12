@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CivicSense: Citizen Reporting Platform",
+  "description": "A comprehensive portal for citizens to report local issues like garbage dumping and water leakage, and for authorities to track, manage, and resolve them with visual proof.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
