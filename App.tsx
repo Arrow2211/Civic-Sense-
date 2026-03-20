@@ -610,6 +610,8 @@ export default function App() {
               <span className="font-black text-lg text-slate-900 tracking-tight">CivicSense</span>
             </div>
             <p className="text-slate-400 text-sm font-medium">© 2026 CivicSense. Building better cities together.</p>
+            <p className="text-slate-400 text-sm font-medium">CREATED BY ATHARV MAKARAND SUDHAL</p>
+
             <div className="flex items-center gap-6">
               <a href="#" className="text-slate-400 hover:text-indigo-600 transition-colors"><i className="fab fa-twitter"></i></a>
               <a href="#" className="text-slate-400 hover:text-indigo-600 transition-colors"><i className="fab fa-github"></i></a>
